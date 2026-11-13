@@ -18,9 +18,9 @@ Logs a finding against a NIST control ID and scores it with **Risk = Likelihood 
 | 8 to 14 | MEDIUM |
 | 1 to 7 | LOW |
 
-The ratings match my [risk matrix](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/blob/main/GRC-Investigations/risk-matrix.md), so the tool, the matrix and the write-ups always agree.
+The ratings match my [risk matrix](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/blob/main/GRC-Labs/Analysis-After-It-Happens/risk-matrix.md), so the tool, the matrix and the write-ups always agree.
 
-**Used in:** [Lab 002: Phishing and BEC Investigation](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/blob/main/GRC-Investigations/Lab-002-Phishing-Investigation.md)
+**Used in:** [Lab 002: Phishing and BEC Investigation](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/blob/main/GRC-Labs/Analysis-After-It-Happens/Lab-002-Phishing-Investigation.md)
 
 **Sample output:** [audit_results_demo.txt](audit_results_demo.txt)
 ```

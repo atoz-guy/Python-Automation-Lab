@@ -1,7 +1,7 @@
 # GRC & Security Audit Logger with Risk Scoring
 # Purpose: Demonstrate automated risk calculation for GRC/SOC roles
 # Ratings match the risk matrix used in my GRC investigations:
-# https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/blob/main/GRC-Investigations/risk-matrix.md
+# https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/blob/main/GRC-Labs/Analysis-After-It-Happens/risk-matrix.md
 import datetime
 
 
