@@ -22,16 +22,14 @@ The ratings match my [risk matrix](https://github.com/atoz-guy/Cybersecurity-Tec
 
 **Used in:** [Lab 002: Phishing and BEC Investigation](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/blob/main/GRC-Investigations/Lab-002-Phishing-Investigation.md)
 
-### [grc_audit_logger.py](grc_audit_logger.py)
-The first version: logs a finding with a control ID and a simple Low / Medium / High severity.
-
-**Used in:** [Lab 001: Privileged Access Review](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/blob/main/GRC-Investigations/Lab-001-Privileged-Access-Review.md)
-
 **Sample output:** [audit_results_demo.txt](audit_results_demo.txt)
 ```
 [2026-05-11 14:00:00] [SCORE: 25] [RATING: CRITICAL] [ID: AC-2] - Admin account found without MFA enabled.
 [2026-05-11 14:15:00] [SCORE: 6] [RATING: LOW] [ID: PE-3] - Server room door left propped open for 5 minutes.
 ```
+
+### [grc_audit_logger.py](grc_audit_logger.py)
+The first version: logs a finding with a control ID and a simple Low / Medium / High severity.
 
 ---
 
