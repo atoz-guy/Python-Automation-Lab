@@ -54,4 +54,4 @@ python3 grc_audit_logger_w-risk-scoring.py
 
 Each script asks for input and appends to a log file in the same folder (`security_audit_log.txt` or `ticket_log.txt`).
 
-**Certs behind this:** Python PCEP, PCAP, PCPP1
+**Certs behind this:** Python PCEP, PCAP, PCPP1, Google IT Automation with Python
