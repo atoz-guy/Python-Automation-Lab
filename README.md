@@ -2,7 +2,7 @@
 
 Small Python tools I built for GRC and IT support work. They're simple on purpose: each one takes a manual task (logging a finding, scoring a risk, opening a ticket) and makes it consistent and repeatable.
 
-These scripts are used in my real investigations, so you can see them in action in [Cybersecurity-Technical-Portfolio](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio).
+These scripts are used in my real investigations, so you can see them in action in [Cybersecurity-Technical-Portfolio](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio). 
 
 ---
 
